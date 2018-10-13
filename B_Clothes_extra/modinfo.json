@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "clothes_options",
+    "name": "Extra Clothing Options",
+    "authors": [ "Blankie",  "Rod995" ],
+    "description": "Add extra functionality to certain clothes. WIP",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
